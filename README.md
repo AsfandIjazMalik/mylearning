@@ -3,7 +3,8 @@
 I learned a lot about Python by converting all its topics. This repository contains materials,
 code examples, and exercises for beginners looking to learn Python programming fundamentals.
 
-# Note "I learned this from YouTube and the internet; my data may match resources found on YouTube and other internet sources."
+# Important Note:<be>
+"I learned this from YouTube and the internet; my data may match resources found on YouTube and other internet sources."
 
 ## Chapter 1:
 
