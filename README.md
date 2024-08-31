@@ -71,7 +71,7 @@ File I/O<br>
 Reading and writing files<br>
 Working with directories<br>
 
-Chapter 10:
+## Chapter 10:
 
 Object-Oriented Programming<br>
 Classes and objects<br>
